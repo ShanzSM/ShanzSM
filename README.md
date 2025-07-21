@@ -11,7 +11,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-- 🌱 I’m currently learning Flutter and MERN
+- 🌱 I’m currently working on Flutter and MERN
 
 - 💬 Ask me about **Dart**
 </td>
